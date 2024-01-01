@@ -1,8 +1,19 @@
-# Big Dog - Cost-Effective Luggage Transportation Robot Readme
+# Big Dog - Cost-Effective Luggage Transportation Robot 
 
 ## Overview
 
 **Big Dog** is an innovative robot designed to provide cost-effective and efficient luggage transportation solutions. With a focus on stability and enhanced vision capabilities through a two-camera model, Big Dog aims to revolutionize luggage handling in various environments.
+
+## Building Recognition with Two Cameras
+
+This project includes a video demonstration showcasing the building recognition system in action. Watch the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1oapv1quKkc" frameborder="0" allowfullscreen></iframe>
+
+
+![image](https://github.com/yeonholee50/Big-Dog/assets/82836242/e47ecee2-376b-4b13-ac14-34f2359e11db)
+
+
 
 ## Features
 
@@ -53,5 +64,4 @@ The development of Big Dog is funded by Georgia Tech as part of a project for in
 
 
 
-![image](https://github.com/yeonholee50/Big-Dog/assets/82836242/e47ecee2-376b-4b13-ac14-34f2359e11db)
 
