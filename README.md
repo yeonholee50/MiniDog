@@ -8,7 +8,7 @@
 
 This project includes a video demonstration showcasing the building recognition system in action. Watch the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1oapv1quKkc" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/1oapv1quKkc
 
 
 ![image](https://github.com/yeonholee50/Big-Dog/assets/82836242/e47ecee2-376b-4b13-ac14-34f2359e11db)
