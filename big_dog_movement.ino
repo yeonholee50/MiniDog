@@ -115,6 +115,19 @@ void setup() {
 }
 
 void loop(){
+  if (Serial.available() > 0) {
+    char command = Serial.read();
+    if (command == 'D') {
+      distanceRead();
+      Serial.println(distance);
+    } else if (command == 'F') {
+      forward();
+    } else if (command == 'B') {
+      backward();
+    } else if (command == 'S') {
+      stopMovement();  // Implement stop function as needed
+    }
+  }
   if (check == false) {
     signal = "";
   }
