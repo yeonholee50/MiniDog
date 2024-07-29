@@ -19,7 +19,7 @@ https://www.youtube.com/embed/1oapv1quKkc
 
 1. **Cost-Effectiveness**: Big Dog is engineered to be a cost-effective alternative for luggage transportation, providing businesses and industries with an efficient solution that aligns with budgetary considerations.
 
-2. **Stable Two-Camera Vision Model**: The robot incorporates a stable two-camera vision model, enhancing its ability to perceive and navigate the environment. This model contributes to improved accuracy and reliability in luggage handling.
+2. **Stable Two-Camera Vision Model**: The robot incorporates a stable proximity sensor model, enhancing its ability to perceive and navigate the environment. This model contributes to improved accuracy and reliability in luggage handling.
 
 3. **Autonomous Operation**: Big Dog operates autonomously, minimizing the need for constant human intervention. It can navigate through predefined paths, avoiding obstacles and efficiently transporting luggage.
 
@@ -50,7 +50,7 @@ https://www.youtube.com/embed/1oapv1quKkc
   - Big Dog is in active development, with a focus on refining its stability, vision model, and autonomous navigation capabilities.
 
 - **Future Enhancements**:
-  - Integration of machine learning algorithms for improved obstacle recognition.
+  - Integration of computer vision equipments for improved obstacle recognition.
   - Implementation of additional sensors for enhanced environmental perception.
   - Collaboration with luggage management systems for seamless integration.
 
